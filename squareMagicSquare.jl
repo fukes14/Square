@@ -1,3 +1,5 @@
+#Cameron Fukes 3x3 Magic Square solver
+
 function f()
     #println("Enter num searched")
     #num_searched = parse(Int64, readline())
